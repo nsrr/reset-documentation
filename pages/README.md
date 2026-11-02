@@ -30,7 +30,7 @@ Several questionnaires, including demographic and medical history, concussion sy
 
 |  |  |  |  |  |  |  |  |
 |---------|---------|---------|---------|---------|---------|---------|---------|
-| *Visit* |  | Visit 1 |  | Daily Questionnaire |  | Visit 2 |  |
+| **Visit** |  | Visit 1 |  | Daily Questionnaire |  | Visit 2 |  |
 |  | Pre Nap/Wake | Post Nap/Wake | Post eye tracking |  | Pre Nap/Wake | Post Nap/Wake | Post eye tracking |
 | Demographics | ✓ | — | — | — | — | — | — |
 | PSQI | ✓ | — | — | — | — | — | — |
@@ -45,15 +45,15 @@ Several questionnaires, including demographic and medical history, concussion sy
 
 #### Physiological and Behavioral data
 
-##### Eye Tracking
+**Eye Tracking**
 
 Measurements taken during lab sessions as part of emotion regulation task Measurements of total fixation count, average total dwell time, proportion of interest area fixations, proportion of interest area dwell time, fixation count outside the area of interest, and average dwell time outside the area of interest, using SR EyeLink 1000 Plus.
 
-##### Pupillometry
+**Pupillometry**
 
 Measurements taken during lab sessions Measurements of pupil size (area in mm), with proportional change calculated across early (first 2.5 seconds) and late (last 2.5 seconds) aggregated time points, using SR EyeLink 1000 Plus.
 
-##### ERP (event-related potentials)
+**ERP (event-related potentials)**
 
 ERP via EEG taken during lab sessions. EEG data from Pz, measuring average amplitude of positive deflection, processed using BrainVision Analyzer 2 software
 
@@ -147,6 +147,6 @@ Please include the following text in the Acknowledgements:
 
 - Positive and Negative Affect Scale (PANAS, Watson et al., 1988): <https://psycnet.apa.org/doi/10.1037/0022-3514.54.6.1063>
 
-- Cognitive Emotion Regulation Questionnaire (CERQ, Garnefski & Kraaij, 2007):(CERQ, Garnefski & Kraaij, 2007)
+- Cognitive Emotion Regulation Questionnaire (CERQ, Garnefski & Kraaij, 2007): <https://doi.org/10.1027/1015-5759.23.3.141>
 
 - Short UPPS-P Impulsive Behavior Scale (Dugré et al., 2019): <https://doi.org/10.3389/fpsyt.2019.00139>
