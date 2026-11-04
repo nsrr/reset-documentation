@@ -32,8 +32,7 @@ Questionnaires were administered at different timepoints throughout the study:
 
 |  |  |  |  |  |  |  |  |
 |---------|---------|---------|---------|---------|---------|---------|---------|
-| **Visit** |  | Visit 1 |  | Daily Questionnaire |  | Visit 2 |  |
-|  | Pre Nap/Wake | Post Nap/Wake | Post eye tracking |  | Pre Nap/Wake | Post Nap/Wake | Post eye tracking |
+|  | Visit 1 Pre Nap/Wake | Visit 1 Post Nap/Wake | Visit 1 Post eye tracking | Daily Questionnaire | Visit 2 Pre Nap/Wake | Visit 2 Post Nap/Wake | Visit 2Post eye tracking |
 | Demographics | ✓ | — | — | — | — | — | — |
 | PSQI | ✓ | — | — | — | — | — | — |
 | RPQ | ✓ | — | — | — | — | — | — |
@@ -111,7 +110,7 @@ All personally identifiable information (PII) was removed from the data files by
 
 Includes demographic information (age, gender, race/ethnicity, athletic status, medications, brain injury severity and cause), and responses to concussion symptom questionnaires (RPQ, PCCS), emotional and cognitive questionnaires (PANAS, CERQ, UPPS-P, BIS/BAS), and sleep quality assessment questionnaires (PSQI, SSS, CSD)
 
-Data for 15 participants are currently available in the dataset. 
+Data for 15 participants are currently available in the dataset.
 
 ## Access and usage restrictions
 
@@ -137,18 +136,18 @@ Please include the following text in the Acknowledgements:
 
 - RESET NSRR GitHub Documentation: <https://github.com/nsrr/reset-documentation>
 
-- Pittsburgh Sleep Quality Index (PSQI, Buysse et al., 1989) : [https://doi.org/10.1016/0165-1781(89)90047-4](https://doi.org/10.1016/0165-1781(89)90047-4){.uri}
+- Pittsburgh Sleep Quality Index (PSQI, [Buysse et al., 1989](https://doi.org/10.1016/0165-1781(89)90047-4))
 
-- Consensus Sleep Diary (CSD, Carney et al., 2012): <https://pmc.ncbi.nlm.nih.gov/articles/PMC3250369/>
+- Consensus Sleep Diary (CSD, [Carney et al., 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3250369/))
 
-- Stanford Sleepiness Scale (SSS, Hoddes et al., 1973): <https://doi.org/10.1111/j.1469-8986.1973.tb00801.x>
+- Stanford Sleepiness Scale (SSS, [Hoddes et al., 1973](https://doi.org/10.1111/j.1469-8986.1973.tb00801.x))
 
-- Rivermead Post-Concussion Symptoms Questionnaire (RPQ, King et al., 1995): <https://doi.org/10.1007/bf00868811>
+- Rivermead Post-Concussion Symptoms Questionnaire (RPQ, [King et al., 1995](https://doi.org/10.1007/bf00868811))
 
-- Post Concussion Symptom Scale (PCCS, Lovell & Collins, 1998): <https://doi.org/10.1097/00001199-199804000-00004>
+- Post Concussion Symptom Scale (PCCS, [Lovell & Collins, 1998](https://doi.org/10.1097/00001199-199804000-00004))
 
-- Positive and Negative Affect Scale (PANAS, Watson et al., 1988): <https://psycnet.apa.org/doi/10.1037/0022-3514.54.6.1063>
+- Positive and Negative Affect Scale (PANAS, [Watson et al., 1988](https://psycnet.apa.org/doi/10.1037/0022-3514.54.6.1063))
 
-- Cognitive Emotion Regulation Questionnaire (CERQ, Garnefski & Kraaij, 2007): <https://doi.org/10.1027/1015-5759.23.3.141>
+- Cognitive Emotion Regulation Questionnaire ([CERQ, Garnefski & Kraaij, 2007](https://doi.org/10.1027/1015-5759.23.3.141))
 
-- Short UPPS-P Impulsive Behavior Scale (Dugré et al., 2019): <https://doi.org/10.3389/fpsyt.2019.00139>
+- Short UPPS-P Impulsive Behavior Scale ([Dugré et al., 2019](https://doi.org/10.3389/fpsyt.2019.00139))
