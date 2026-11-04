@@ -12,11 +12,13 @@ Participants for the RESET study were recruited based on the following criteria:
 
 ### Data Collection
 
-#### Questionnaires
-
 The study involved two data collection visits and one phone contact. Participants followed a within-subjects counterbalanced design, completing an emotion regulation task after both a nap and a no-nap (wake) condition, with the two conditions completed one week apart.
 
-Several questionnaires, including demographic and medical history, concussion symptom questionnaires, emotional and cognitive questionnaires, and sleep quality assessments, were administered at different timepoints throughout the RESET study:
+At the initial lab session, participants completed demographic information and several questionnaires. Additional questionnaires, including concussion symptom questionnaires, emotional and cognitive questionnaires, and sleep quality assessments, were administered at different timepoints throughout the RESET study. Behavioral and physiological tasks were conducted during lab sessions. Nocturnal PSG was collected on the night prior to and the night after each laboratory session, totaling 4 nights. Nap PSG was conducted during nap opportunities in the lab.
+
+#### Questionnaires
+
+Questionnaires were administered at different timepoints throughout the study:
 
 - **Beginning of Visit 1:** Demographic information, Pittsburgh Sleep Quality Index (PSQI), Rivermead Post-Concussion Symptoms Questionnaire (RPQ), Cognitive Emotion Regulation Questionnaire (CERQ), and Behavioral Activation/Inhibition Scales (BAS/BIS).
 
@@ -55,7 +57,7 @@ Measurements taken during lab sessions Measurements of pupil size (area in mm), 
 
 **ERP (event-related potentials)**
 
-ERP via EEG taken during lab sessions. EEG data from Pz, measuring average amplitude of positive deflection, processed using BrainVision Analyzer 2 software
+ERP via EEG taken during lab sessions. EEG data from Pz, measuring average amplitude of positive deflection, processed using BrainVision Analyzer 2 software.
 
 ### Nap and Nocturnal Polysomnography (PSG) Collection
 
@@ -101,7 +103,7 @@ Primary actigraphy outcomes include: Average total sleep time (TST), Sleep Effic
 
 ## Data de-identification
 
-All personally identifiable information (PII) was removed from the data files by the RESET study team and the NSRR team.
+All personally identifiable information (PII) was removed from the data files by the NSRR team.
 
 ## Data Overview
 
@@ -109,13 +111,13 @@ All personally identifiable information (PII) was removed from the data files by
 
 Includes demographic information (age, gender, race/ethnicity, athletic status, medications, brain injury severity and cause), and responses to concussion symptom questionnaires (RPQ, PCCS), emotional and cognitive questionnaires (PANAS, CERQ, UPPS-P, BIS/BAS), and sleep quality assessment questionnaires (PSQI, SSS, CSD)
 
-There are 15 participants with unique identifiers in the current dataset.
+Data for 15 participants are currently available in the dataset. 
 
 ## Access and usage restrictions
 
 The RESET is available for non-commercial use only.
 
-Additional variables (Eye tracking, pupillometry, ERP, PSG, actigraphy...) will be shared in the future.
+Additional variables collected during the study will be shared in the future.
 
 ## Citation and acknowledgements
 
