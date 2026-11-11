@@ -31,7 +31,7 @@ Questionnaires were administered at different timepoints throughout the study:
 - **Daily for 10 days:** PCSS and Consensus Sleep Diary (CSD).
 
 |  |  |  |  |  |  |  |  |
-|---------|---------|---------|---------|---------|---------|---------|---------|
+|----|----|----|----|----|----|----|----|
 |  | Visit 1 Pre Nap/Wake | Visit 1 Post Nap/Wake | Visit 1 Post eye tracking | Daily Questionnaire | Visit 2 Pre Nap/Wake | Visit 2 Post Nap/Wake | Visit 2Post eye tracking |
 | Demographics | ✓ | — | — | — | — | — | — |
 | PSQI | ✓ | — | — | — | — | — | — |
@@ -62,7 +62,7 @@ ERP via EEG taken during lab sessions. EEG data from Pz, measuring average ampli
 
 #### Nap PSG
 
-**Devices Used for Naps:** BrainVision EasyCaps (Brain Products, GmbH, Germany). These were used for attended PSG recordings during nap sessions. Study Type: Type I (attended studies with full sleep staging).
+**Devices Used for Naps:** BrainVision EasyCaps (Brain Products, GmbH, Germany). These were used for attended PSG recordings during nap sessions. Study Type: Type I (attended studies with full sleep staging).
 
 **Signals Captured (Channels):** A 32-electrode cap montage was applied, consisting of 25 cortical EEG electrodes (F3, F4, Fz, F7, F8, FCz, FC1, FC2, FC5, FC6, Cz, C3, C4, CP1, CP2, CP5, CP6, Pz, P3, P4, P7, P8, POz, O1, O2), 2 EOG (eye movements), and 2 EMG (muscle activity) electrodes. Additionally, 2 reference electrodes were placed on the mastoid bones, and a ground electrode was used. Sampling rate recorded at 500 Hz, scored at 256 Hz.
 
@@ -111,6 +111,16 @@ All personally identifiable information (PII) was removed from the data files by
 Includes demographic information (age, gender, race/ethnicity, athletic status, medications, brain injury severity and cause), and responses to concussion symptom questionnaires (RPQ, PCCS), emotional and cognitive questionnaires (PANAS, CERQ, UPPS-P, BIS/BAS), and sleep quality assessment questionnaires (PSQI, SSS, CSD)
 
 Data for 15 participants are currently available in the dataset.
+
+The harmonized dataset contains the most frequently used demographic variables available in the RESET dataset collected at study visit 1. These variables were curated by the NSRR team to allow ready inter-operability with other NSRR datasets. Key harmonized variables include:
+
+|                                                   |                   |
+|---------------------------------------------------|-------------------|
+| **Variable**                                      | **Label**         |
+| [nsrr_age](:variables_path:/nsrr_age)             | Subject age       |
+| [nsrr_sex](:variables_path:/nsrr_sex)             | Subject sex       |
+| [nsrr_race](:variables_path:/nsrr_race)           | Subject race      |
+| [nsrr_ethnicity](:variables_path:/nsrr_ethnicity) | Subject ethnicity |
 
 ## Access and usage restrictions
 
