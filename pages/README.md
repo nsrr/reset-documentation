@@ -1,10 +1,10 @@
 ## About
 
-The Regulation of Emotions, Sleep Extension, and mTBI (RESET) study is a within-subjects counterbalanced clinical trial, funded by the National Institutes of Health (NIH) and National Institute of Mental Health (NIMH) grant R15MH136612, conducted from 2024.0 to present. The study targets individuals aged 18-35 years of all sexes who have recently sustained a mild traumatic brain injury (mTBI), with a targeted follow-up duration of 10 days. Its main aim is to examine the preliminary efficacy of a mid-day nap to improve emotion regulation in this population and to determine whether a midday nap alters top-down neural control of emotion regulation.
+The Regulation of Emotions, Sleep Extension, and mTBI (RESET) study is a within-subjects counterbalanced clinical trial, funded by the National Institutes of Health (NIH) and National Institute of Mental Health (NIMH) grant R15MH136612, conducted from 2024 to present. The study targets individuals aged 18-35 years of all sexes who have recently sustained a mild traumatic brain injury (mTBI), with a targeted follow-up duration of 10 days. Its main aim is to examine the preliminary efficacy of a mid-day nap to improve emotion regulation in this population and to determine whether a midday nap alters top-down neural control of emotion regulation.
 
 The RESET dataset offers a comprehensive multimodal collection of physiological, behavioral, and self-report data investigating the effect of naps on emotion regulation following recent mTBI in young adults. Data includes polysomnography from nap and nocturnal sleep, wrist actigraphy, eye tracking, pupillometry, ERP, and a suite of validated questionnaires assessing sleep quality, concussion symptoms, and emotional control. This dataset supports studies on sleep’s role in emotional and cognitive recovery post brain injury, with high-quality phenotyping and sleep monitoring across multiple modalities.
 
-The primary outcomes investigated include self-reported emotion regulation, behavioral measures of emotion regulation, executive control over emotions via pupillometry, and executive control over emotions via neurophysiology (ERP). Secondary outcomes involve sleep duration and sleep patterns assessed by actigraphy, as well as self-report control measures. The primary exposure of interest is mTBI
+The primary outcomes investigated include self-reported emotion regulation, behavioral measures of emotion regulation, executive control over emotions via pupillometry, and executive control over emotions via neurophysiology (ERP). Secondary outcomes involve sleep duration and sleep patterns assessed by actigraphy, as well as self-report control measures. The primary exposure of interest is mTBI.
 
 Participants for the RESET study were recruited based on the following criteria: Between the ages of 18 and 35 years old; have normal or corrected-to-normal vision; and sustained a first or second concussion within the last 2-3 weeks. Exclusion criteria: Under 18 or over 35 years old; not having corrected normal vision with glasses or contacts; having an astigmatism in both eyes; had a concussion over 3 weeks ago; has a sleep disorder; is a shift worker.
 
@@ -68,7 +68,7 @@ ERP via EEG taken during lab sessions. EEG data from Pz, measuring average ampli
 
 **Scoring System and Software:** All PSG recordings of naps were analyzed using BrainVision Analyzer (Brain Products, GmbH, Germany). Scoring was performed by hand according to the American Academy of Sleep Science guidelines.
 
-**Sleep Diaries:** Participants completed the Consensus Sleep Diary (Carney et al., 2012) daily, in conjunction with wearing the Actigraph. This allowed for more accurate scoring of actigraph data as per standard recommendations.
+**Sleep Diaries:** Participants completed the Consensus Sleep Diary ([Carney et al., 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3250369/)) daily, in conjunction with wearing the Actigraph. This allowed for more accurate scoring of actigraph data as per standard recommendations.
 
 **Scoring Rules and Definitions:**
 
@@ -104,7 +104,7 @@ Primary actigraphy outcomes include: Average total sleep time (TST), Sleep Effic
 
 All personally identifiable information (PII) was removed from the data files by the NSRR team.
 
-## Data Overview
+## Data overview
 
 ### Covariate/Phenotype Datasets (CSV)
 
