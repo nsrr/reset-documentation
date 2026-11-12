@@ -31,7 +31,7 @@ Questionnaires were administered at different timepoints throughout the study:
 - **Daily for 10 days:** PCSS and Consensus Sleep Diary (CSD).
 
 |  |  |  |  |  |  |  |  |
-|----|----|----|----|----|----|----|----|
+|---------|---------|---------|---------|---------|---------|---------|---------|
 |  | Visit 1 Pre Nap/Wake | Visit 1 Post Nap/Wake | Visit 1 Post eye tracking | Daily Questionnaire | Visit 2 Pre Nap/Wake | Visit 2 Post Nap/Wake | Visit 2Post eye tracking |
 | Demographics | ✓ | — | — | — | — | — | — |
 | PSQI | ✓ | — | — | — | — | — | — |
@@ -68,8 +68,6 @@ ERP via EEG taken during lab sessions. EEG data from Pz, measuring average ampli
 
 **Scoring System and Software:** All PSG recordings of naps were analyzed using BrainVision Analyzer (Brain Products, GmbH, Germany). Scoring was performed by hand according to the American Academy of Sleep Science guidelines.
 
-**Sleep Diaries:** Participants completed the Consensus Sleep Diary ([Carney et al., 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3250369/)) daily, in conjunction with wearing the Actigraph. This allowed for more accurate scoring of actigraph data as per standard recommendations.
-
 **Scoring Rules and Definitions:**
 
 - Sleep stages (naps): PSG recordings were coded for sleep stages using BrainVision Analyzer 2 software according to the American Academy of Sleep Science. Time in sleep stages (SWS and REM) was reported.
@@ -95,6 +93,8 @@ Home based data collection included four night of sleep physiology recordings’
 ### Actigraphy Collection
 
 Wrist-worn Philips Respironics Spectrum Plus Actiwatch worn on the non-dominant wrist continuously for 10 days. Sampling frequency at 32 Hz; data collected in 15-second epochs. Data downloaded and exported via Philips Respironics Actiware software.
+
+**Sleep Diaries:** Participants completed the Consensus Sleep Diary ([Carney et al., 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3250369/)) daily, in conjunction with wearing the Actigraph. This allowed for more accurate scoring of actigraph data as per standard recommendations.
 
 **Actigraphy Scoring:** Sleep intervals scored using a combination of consensus sleep diary, participant button presses, and Actiware’s validated algorithm detecting nocturnal and daytime sleep. Research assistants trained and supervised by PIs for scoring consensus.
 
