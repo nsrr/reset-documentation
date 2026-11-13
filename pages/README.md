@@ -138,7 +138,7 @@ Please include the following text in the Acknowledgements:
 
 > The Regulation of Emotions, Sleep Extension, and mTBI study (RESET) was supported by the National Institutes of Health and National Institute of Mental Health grant R15MH136612.
 
-> The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, 75N92019R002).
+> The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, 75N92019R002, 75N92025R00007).
 
 ## References
 
